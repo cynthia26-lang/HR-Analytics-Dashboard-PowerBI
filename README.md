@@ -15,7 +15,7 @@ It allows HR teams to explore employee data dynamically with filters for educati
 ---
 
 ## Files
-- `HR_Analytics.pbix` → Power BI dashboard source file.
+- `HR_analytics_dashboard.pbix` → Power BI dashboard source file.
 - `dashboard_preview.png` → Dashboard preview image.
 
 ---
